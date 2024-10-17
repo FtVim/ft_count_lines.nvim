@@ -13,7 +13,7 @@ To install with Lazy.nvim:
 
 ```lua
 {
-  "TuTaRdrgZ/ft_count_lines.nvim",
+  "FtVim/ft_count_lines.nvim",
   config = function()
     require("ft_count_lines").setup({
         enable_on_start = true --Default is false
